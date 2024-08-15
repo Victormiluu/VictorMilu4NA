@@ -1,24 +1,36 @@
-# Nome do Projeto
+# bookstore Star
 
-Descrição breve do projeto.
+O Bookstore Star é uma aplicação de uma livraria que visa ajudar os clientes e funcionarios a manter tudo organizado e dinamico.
 
 ## Requisitos Funcionais
 
 Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer. Aqui estão alguns exemplos:
 
-- O sistema deve permitir que os usuários se registrem e façam login.
-- O sistema deve permitir que os usuários visualizem e editem seu perfil.
-- O sistema deve permitir que os usuários publiquem e comentem em postagens.
-- O sistema deve enviar notificações por e-mail para ações relevantes.
+- O sistema deve permitir que os funcionarios da livraria publiquem e editem sobre disponibilidades e status dos livros.
+
+- O sistema deve permitir que os funcionarios bloqueem e desbloqueem os perfis de usuarios com status diferentes.
+
+- O sistema deve permitir que os usuários reservem livros e agende a data de devolção.
+
+- O sistema deve permitir que os usuarios após a entrega do livro alugado, avaliem e conte uma breve esperiencia do livro com filtro de spoiler para outros usuarios.
+
+- O sistema deve permitir que usuarios com pagamento pendente ou livros ja alugados não possam reservar outros.
 
 ## Requisitos Não Funcionais
 
 Os requisitos não funcionais são critérios que podem ser usados para julgar a operação de um sistema, em vez de comportamentos específicos. Exemplos incluem:
 
-- O sistema deve ser capaz de suportar até 1000 usuários simultâneos.
-- O tempo de resposta para qualquer operação deve ser inferior a 2 segundos.
-- O sistema deve ser compatível com os navegadores mais populares (Chrome, Firefox, Safari).
+- O sistema deve ser capaz de suportar até 500 usuários simultâneos.
+
+- O tempo de resposta para qualquer operação deve ser inferior a 5 segundos.
+
+- O sistema deve ser compatível com os navegadores mais populares.
+
 - O sistema deve garantir a segurança dos dados do usuário através de criptografia.
+
+- O sistema deve garantir que livros esgotados ou ja alugados não possam ser reservados por outro usuario
+
+- O sistema deve garantir a confiabilidade de dados e sistemas de transação segura.
 
 ## Dependências
 
