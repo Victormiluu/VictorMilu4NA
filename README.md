@@ -96,3 +96,6 @@ Sinta-se à vontade para contribuir com o projeto! Veja o arquivo [CONTRIBUTING.
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+
+Autos: Victor Milu
